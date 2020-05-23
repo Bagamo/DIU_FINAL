@@ -1,5 +1,7 @@
 # DIU FINAL
 
+Realizado por: Bryan Alfonso Córdoba Góngora
+
 Vamos a rediseñar https://www.errant.es/es/  una web dedicada al coworking.
 
 ## ¿Que es el coworking?
