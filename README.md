@@ -20,11 +20,12 @@ Debería existir un método para automatizar la reserva dado que actualmente sol
 
 ## Bocetos
 Ahora mostraré unos bocetos de como se debería ver la página principal para destacar la funcionalidad principal que es el alquiler de un espacio para el coworking.
+![Método UX](portada.png)
 Nada mas entrar veríamos una foto del establecimiento junto a una pequeña descripción con un botón que nos llevaría ha hacer la reserva. Justo dos imágenes que servirían de enlace que nos lleva a dos de sus páginas a páginas relativas acompañadas de una pequeña descripción de  que nos vamos a encontrar. Luego el mapa que volveríamos interactivo para poder desplazarse por las calles y por ultimo para contactar con ellos.
 
 
 Crearíamos una nueva página relativa para las ayudas online.
-
+![Método UX](ayudas.png)
 Mostraría un mensaje en el que se aportaría la información con la ayuda y una imagen de apoyo si se tiene. Abajo mostraríamos preguntas frecuentes y relevante, el titulo serviría de enlace para mostrar toda la información dado que solo se pondrá lo más básico de la pregunta para acompañando al titulo  y si no aun así no se ha podido solucionar la duda podría contactar con nosotros.
 
 ## Diseño
