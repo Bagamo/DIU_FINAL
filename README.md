@@ -2,7 +2,7 @@
 
 Vamos a rediseñar https://www.errant.es/es/  una web dedicada al coworking.
 
-##¿Que es el coworking?
+## ¿Que es el coworking?
 
 El coworking o cotrabajo es una forma de trabajo que permite a profesionales independientes, emprendedores y pymes de diferentes sectores, compartir un mismo espacio de trabajo (tanto físico como virtual) con el fin de desarrollar sus proyectos profesionales la vez que fomentan proyectos conjuntos. 
 
